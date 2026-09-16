@@ -1,0 +1,214 @@
+{
+  "projects": [
+    {
+      "id": "p-emprendimiento-paz-maicao",
+      "slug": "emprendimiento-social-construccion-paz",
+      "title": "Programa de Emprendimiento Social como Pilar para la Construcción de Paz",
+      "tagline": "Formación, acompañamiento y fortalecimiento productivo en Maicao",
+      "category": "Desarrollo productivo",
+      "description": "Proyecto de extensión de la Universidad de La Guajira orientado a fortalecer las capacidades emprendedoras, productivas y organizativas de madres cuidadoras tejedoras Wayuu, docentes y estudiantes de la Institución Educativa Indígena No. 2 de Maicao. La iniciativa promueve el emprendimiento social, la economía solidaria, la asociatividad, la generación de ingresos, la preservación de saberes ancestrales y el desarrollo comunitario sostenible como aportes a la construcción de paz.",
+      "location_name": "Maicao, La Guajira, Colombia",
+      "start_date": "2026-05-20",
+      "end_date": "2027-10-15",
+      "active": true,
+      "beneficiaries": 350,
+      "budget": 0,
+      "cover_image": "/uploads/1788722204367-2a8bd9cc-5457-4727-a4ed-3103789f7bef.jpg",
+      "reach_score": 0,
+      "innovation_score": 0,
+      "scalability_score": 0,
+      "benefits_score": 0,
+      "indicators": [
+        {
+          "id": "maicao-personas-formadas",
+          "name": "Personas formadas",
+          "unit": "personas",
+          "target": 350,
+          "achieved": 350,
+          "category": "Formación"
+        },
+        {
+          "id": "maicao-emprendimientos-fortalecidos",
+          "name": "Emprendimientos sociales fortalecidos",
+          "unit": "emprendimientos",
+          "target": 20,
+          "achieved": 20,
+          "category": "Desarrollo productivo"
+        },
+        {
+          "id": "maicao-comunidades-vinculadas",
+          "name": "Comunidades educativas vinculadas",
+          "unit": "comunidades",
+          "target": 19,
+          "achieved": 17,
+          "category": "Participación comunitaria"
+        },
+        {
+          "id": "maicao-horas-formacion",
+          "name": "Horas de formación y acompañamiento",
+          "unit": "horas",
+          "target": 300,
+          "achieved": 310,
+          "category": "Gestión del proyecto"
+        }
+      ],
+      "map_points": [],
+      "life_stories": [],
+      "media": [
+        {
+          "kind": "foto",
+          "title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "url": "/uploads/1788825170347-79738c2b-55e5-4d46-8244-ee7f5578790d.jpg",
+          "id": "74a28cfd-6d0c-4213-811e-b9d49b6c8974",
+          "group_id": "album-emprendimiento-social-construccion-paz-98268c0dfa",
+          "group_title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "album": true,
+          "is_cover": false
+        },
+        {
+          "kind": "foto",
+          "title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "url": "/uploads/1788825170439-7c3c3fac-2378-42a0-809e-7405c545c211.jpg",
+          "id": "99ad72f0-56c0-4186-b677-79d95e62c405",
+          "group_id": "album-emprendimiento-social-construccion-paz-98268c0dfa",
+          "group_title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "album": true,
+          "is_cover": false
+        },
+        {
+          "kind": "foto",
+          "title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "url": "/uploads/1788825170527-b3ee1ee9-d971-4798-a20a-87d6f62ef073.jpg",
+          "id": "92e3c80b-da2a-4bd2-bbe9-17035ea41d3c",
+          "group_id": "album-emprendimiento-social-construccion-paz-98268c0dfa",
+          "group_title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "album": true,
+          "is_cover": false
+        },
+        {
+          "kind": "foto",
+          "title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "url": "/uploads/1788825170633-24955390-f4f4-418e-b648-ca7b20236bd3.jpg",
+          "id": "53482792-8b9d-4bd0-a349-891f89f59c48",
+          "group_id": "album-emprendimiento-social-construccion-paz-98268c0dfa",
+          "group_title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "album": true,
+          "is_cover": false
+        },
+        {
+          "kind": "foto",
+          "title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "url": "/uploads/1788825170755-c4b9cf5c-9e24-400a-8d75-eb5ffaee45c9.jpg",
+          "id": "a7a0bb8a-0632-40a7-a024-b8c3af649ae2",
+          "group_id": "album-emprendimiento-social-construccion-paz-98268c0dfa",
+          "group_title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "album": true,
+          "is_cover": false
+        },
+        {
+          "kind": "foto",
+          "title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "url": "/uploads/1788825170851-61304d45-1d14-40b6-89aa-8533227a8d87.jpg",
+          "id": "0f917cb1-2e0c-4ce4-a9fb-530eb7207e91",
+          "group_id": "album-emprendimiento-social-construccion-paz-98268c0dfa",
+          "group_title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "album": true,
+          "is_cover": false
+        },
+        {
+          "kind": "foto",
+          "title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "url": "/uploads/1788825170951-c1a28842-7a75-44fe-9262-cf2c4313ae44.jpg",
+          "id": "d65d73fc-c986-4de4-9819-b4d4d7200c33",
+          "group_id": "album-emprendimiento-social-construccion-paz-98268c0dfa",
+          "group_title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "album": true,
+          "is_cover": false
+        },
+        {
+          "kind": "foto",
+          "title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "url": "/uploads/1788825171052-d024c088-e1e7-400d-b040-dab6b99d0203.jpg",
+          "id": "bccde8fd-54ca-4a2d-aef7-6757a881bcc1",
+          "group_id": "album-emprendimiento-social-construccion-paz-98268c0dfa",
+          "group_title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "album": true,
+          "is_cover": false
+        },
+        {
+          "kind": "foto",
+          "title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "url": "/uploads/1788825171157-32566095-8266-4472-b720-a24e9e3dfbc6.jpg",
+          "id": "3b90de75-e706-4bbf-97f9-6071528e1a3d",
+          "group_id": "album-emprendimiento-social-construccion-paz-98268c0dfa",
+          "group_title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "album": true,
+          "is_cover": false
+        },
+        {
+          "kind": "foto",
+          "title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "url": "/uploads/1788825171270-2920cb44-be1a-4c9c-b6cb-bbec4950b154.jpg",
+          "id": "04bdb349-fe0e-4af9-9483-5fa312617ff3",
+          "group_id": "album-emprendimiento-social-construccion-paz-98268c0dfa",
+          "group_title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "album": true,
+          "is_cover": false
+        },
+        {
+          "kind": "foto",
+          "title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "url": "/uploads/1788825171445-040e7e40-86dc-4d28-8ac7-ff5ecc0235af.jpg",
+          "id": "4213f852-7c9f-42f9-86f7-54c19f1f6432",
+          "group_id": "album-emprendimiento-social-construccion-paz-98268c0dfa",
+          "group_title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "album": true,
+          "is_cover": false
+        },
+        {
+          "kind": "foto",
+          "title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "url": "/uploads/1788825171611-ceeadee9-1410-4061-a187-065d69af536d.jpg",
+          "id": "cbd6c18b-1e0c-45f2-9caf-47c5cb1e2c0d",
+          "group_id": "album-emprendimiento-social-construccion-paz-98268c0dfa",
+          "group_title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "album": true,
+          "is_cover": true
+        },
+        {
+          "kind": "foto",
+          "title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "url": "/uploads/1788825171731-c0d2e7c5-489b-45e2-9a2f-2c1435f5b6b2.jpg",
+          "id": "5d1e0a09-4980-43dc-8fb9-852e98be9ac9",
+          "group_id": "album-emprendimiento-social-construccion-paz-98268c0dfa",
+          "group_title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "album": true,
+          "is_cover": false
+        },
+        {
+          "kind": "foto",
+          "title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "url": "/uploads/1788825171856-7fda90f2-6bde-4042-885e-453f40488400.jpg",
+          "id": "6f8d52d4-7efc-42d9-bb3a-e7cee09ac2e0",
+          "group_id": "album-emprendimiento-social-construccion-paz-98268c0dfa",
+          "group_title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "album": true,
+          "is_cover": false
+        },
+        {
+          "kind": "foto",
+          "title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "url": "/uploads/1788825171989-a3060146-32e7-4c20-8eaf-cf944c4f30a8.docx",
+          "id": "4ae988ef-fbe7-46ec-9c89-eea6a5f722bd",
+          "group_id": "album-emprendimiento-social-construccion-paz-98268c0dfa",
+          "group_title": "TALLER COMUNITARIO TEJIENDO LAZOS",
+          "album": true,
+          "is_cover": false
+        }
+      ],
+      "reports": [],
+      "milestones": [],
+      "seguimientos": []
+    }
+  ]
+}
